@@ -1,0 +1,16 @@
+In Salesforce 7, an Object is like a database table that stores related information in an organized way.
+You can think of an object as a digital form or container used to keep records of a particular type of data.
+For example:
+A Customer object stores customer details
+An Employee object stores employee information
+A Product object stores product details
+Each object contains:
+Fields → individual pieces of information (like Name, Phone Number, Email)
+Records → complete entries or rows of data
+Example:
+The Account Object in Salesforce is used to store information about companies or customers.
+Example fields inside the Account Object:
+Account Name
+Phone Number
+Address
+Industry
